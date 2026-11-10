@@ -14,7 +14,7 @@ A personal weight-loss app that installs on your phone's home screen. No app sto
 - Works offline. Your data stays on your phone. Use **Me → Copy backup** now and then.
 
 ## Install on iPhone
-1. Open the GitHub Pages link in **Safari**.
+1. Open **https://muadzangullia.github.io/scaley/** in **Safari**.
 2. Tap **Share → Add to Home Screen → Add**.
 
 ## AI key (free)
